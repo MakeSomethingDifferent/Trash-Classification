@@ -1,6 +1,6 @@
 # 武汉大学开源软件工程
 # trash-classification
-基于TensorFlow和Keras的智能垃圾分类系统，用于参加中国软件杯双创大赛。
+基于TensorFlow和Keras的智能垃圾分类系统。
 
 一、 安装运行项目所需的python模块，包括tensorflow | numpy | keras | cv2
 
